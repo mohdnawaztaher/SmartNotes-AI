@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\views\\notes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\views\\notes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\views\\notes\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\views\\notes\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\views\\notes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\views\\notes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\views\\notes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\views\\notes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\models\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\models\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\controllers\\notesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\controllers\\notesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\UserSecrets\\3168e6a9-57cd-49b6-8d8e-481fe7cba984\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\smartnotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\smartnotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|c:\\users\\dell\\source\\repos\\smartnotes\\smartnotes\\migrations\\20261104060944_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739E0C2-ACCD-AFC4-0560-D8E69895B2D1}|SmartNotes\\SmartNotes.csproj|solutionrelative:smartnotes\\migrations\\20261104060944_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\Notes\\Summary.cshtml",
+              "RelativeDocumentMoniker": "SmartNotes\\Views\\Notes\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\Notes\\Summary.cshtml",
+              "RelativeToolTip": "SmartNotes\\Views\\Notes\\Summary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T11:27:33.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\Notes\\Index.cshtml",
+              "RelativeDocumentMoniker": "SmartNotes\\Views\\Notes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\Notes\\Index.cshtml",
+              "RelativeToolTip": "SmartNotes\\Views\\Notes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T07:07:21.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\Notes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SmartNotes\\Views\\Notes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\Notes\\Delete.cshtml",
+              "RelativeToolTip": "SmartNotes\\Views\\Notes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T12:55:02.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Program.cs",
+              "RelativeDocumentMoniker": "SmartNotes\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Program.cs",
+              "RelativeToolTip": "SmartNotes\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T05:15:38.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "SmartNotes\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "SmartNotes\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T06:11:26.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\Notes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SmartNotes\\Views\\Notes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\Notes\\Edit.cshtml",
+              "RelativeToolTip": "SmartNotes\\Views\\Notes\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T07:16:05.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\Notes\\Create.cshtml",
+              "RelativeDocumentMoniker": "SmartNotes\\Views\\Notes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\Notes\\Create.cshtml",
+              "RelativeToolTip": "SmartNotes\\Views\\Notes\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T07:09:27.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Models\\Notes.cs",
+              "RelativeDocumentMoniker": "SmartNotes\\Models\\Notes.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Models\\Notes.cs",
+              "RelativeToolTip": "SmartNotes\\Models\\Notes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:03:24.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SmartNotes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SmartNotes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T12:32:55.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SmartNotes\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SmartNotes\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-05T12:33:25.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotesApiController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Controllers\\NotesApiController.cs",
+              "RelativeDocumentMoniker": "SmartNotes\\Controllers\\NotesApiController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Controllers\\NotesApiController.cs",
+              "RelativeToolTip": "SmartNotes\\Controllers\\NotesApiController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T07:20:04.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OpenAiService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Services\\OpenAiService.cs",
+              "RelativeDocumentMoniker": "SmartNotes\\Services\\OpenAiService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Services\\OpenAiService.cs",
+              "RelativeToolTip": "SmartNotes\\Services\\OpenAiService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T10:39:58.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartNotes\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\appsettings.json",
+              "RelativeToolTip": "SmartNotes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-04T05:10:44.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\UserSecrets\\3168e6a9-57cd-49b6-8d8e-481fe7cba984\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\3168e6a9-57cd-49b6-8d8e-481fe7cba984\\secrets.json",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\UserSecrets\\3168e6a9-57cd-49b6-8d8e-481fe7cba984\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\3168e6a9-57cd-49b6-8d8e-481fe7cba984\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-04T10:37:42.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SmartNotes\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SmartNotes\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T10:27:34.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20261104060944_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Migrations\\20261104060944_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SmartNotes\\Migrations\\20261104060944_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Migrations\\20261104060944_InitialCreate.cs",
+              "RelativeToolTip": "SmartNotes\\Migrations\\20261104060944_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T06:09:44.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SmartNotes\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SmartNotes\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T05:03:56.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SmartNotes.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\SmartNotes.csproj",
+              "RelativeDocumentMoniker": "SmartNotes\\SmartNotes.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SmartNotes\\SmartNotes\\SmartNotes.csproj",
+              "RelativeToolTip": "SmartNotes\\SmartNotes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T05:02:57.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Note Summary";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">AI Note Summary</h4>
+        </div>
+
+        <div class="card-body">
+            <h5 class="card-title">@ViewBag.NoteTitle</h5>
+
+            <div class="alert alert-light border">
+                @ViewBag.Summary
+            </div>
+
+            <a asp-action="Index" class="btn btn-secondary">
+                Back to Notes
+            </a>
+        </div>
+    </div>
+</div>
